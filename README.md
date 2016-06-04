@@ -10,7 +10,7 @@ Requires [Docker](https://www.docker.com/).
 docker run 18fgsa/site-inspector
 ```
 
-This will print out the usage instructions. Arguments for [the `site-inspector` CLI](https://github.com/benbalter/site-inspector#command-line-usage) can then be appended to the command, like so:
+This will print out the usage instructions. [Arguments for the `site-inspector` CLI](https://github.com/benbalter/site-inspector#command-line-usage) can then be appended to the command, like so:
 
 ```bash
 docker run 18fgsa/site-inspector inspect <domain>
